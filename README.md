@@ -24,5 +24,5 @@ Sensors detect vehicle density on roads. The road with higher traffic gets longe
 - Smart traffic control
 - Reduces traffic congestion
 ## Working Model
-![Working Model](Working Model.png)
+![Working Model](working_model.png)
 
